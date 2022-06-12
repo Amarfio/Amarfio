@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@joshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joshua" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joshua amarfio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua amarfio" height="30" width="40" /></a>
+<a href="https://twitter.com/@AmarfioJoshua" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joshua" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joshua-amarfio-513891113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua amarfio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
