@@ -1,6 +1,6 @@
 <!-- <img align="center" alt="Coding" width="1000" height="500" src="https://stockmarketexperts.co.in/wp-content/uploads/2021/11/stock_anim.gif"> -->
 <h1 align="center">Hi 👋, I'm Joshua Amarfio</h1>
-<h3 align="center">A passionate frontend developer and backend developer from Ghana</h3>
+<h3 align="center">A passionate frontend developer and backend web dev from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarfio&label=Profile%20views&color=0e75b6&style=flat" alt="amarfio" /> </p>
 
