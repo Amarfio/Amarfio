@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarfio" alt="amarfio" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@joshua" target="blank"><img src="https://img.shields.io/twitter/follow/@joshua?logo=twitter&style=for-the-badge" alt="@joshua" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@AmarfioJoshua" target="blank"><img src="https://img.shields.io/twitter/follow/@AmarfioJoshua?logo=twitter&style=for-the-badge" alt="@AmarfioJoshua" /></a> </p>
 
 - 🔭 I’m currently working on [clockin-api](https://github.com/Amarfio/clockin-api)
 
